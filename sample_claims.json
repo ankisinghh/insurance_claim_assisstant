@@ -1,0 +1,20 @@
+[
+  {
+    "id": 101,
+    "policy_active": true,
+    "amount": 120000,
+    "documents_submitted": true
+  },
+  {
+    "id": 102,
+    "policy_active": false,
+    "amount": 50000,
+    "documents_submitted": true
+  },
+  {
+    "id": 103,
+    "policy_active": true,
+    "amount": 750000,
+    "documents_submitted": true
+  }
+]
